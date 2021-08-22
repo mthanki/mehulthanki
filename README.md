@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Mehul Thanki
 
 You can use the [editor on GitHub](https://github.com/mthanki/mehulthanki/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
