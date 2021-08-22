@@ -14,8 +14,6 @@ You can view my full portfolio [here](https://github.com/mthanki), or check a su
 ```markdown
 An Angular and NodeJS app that uses MongoDB, it lets you store and search for your code thorugh tags.
 
-![](https://imgur.com/YrGwcJh.png)
-
 <!-- # Header 1
 ## Header 2
 ### Header 3
@@ -30,6 +28,7 @@ An Angular and NodeJS app that uses MongoDB, it lets you store and search for yo
 
 [Link](url) and ![Image](src)
 ```
+![](https://imgur.com/YrGwcJh.png)
 
 <!-- For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
