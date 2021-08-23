@@ -1,6 +1,6 @@
 ## Mehul Thanki
 
-I am a full stack developer with experience in JavaScript frameworks like Angular, React and backend technologies like NodeJS, MongoDB and PostgreSQL. When I am not coding I am playing video games or looking into some distro of Linux.
+I am a full stack developer working with web frameworks like Angular, React and backend technologies like NodeJS, MongoDB and PostgreSQL.
 
 You can view my full portfolio [here](https://github.com/mthanki), or check a summary of some projects below.
 
