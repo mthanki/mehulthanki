@@ -12,19 +12,7 @@ You can view my full portfolio [here](https://github.com/mthanki), or check a su
 
 
 ```markdown
-An Angular and NodeJS app that uses MongoDB, it lets you store and search for your code thorugh tags.
-
-<!-- # Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text -->
+An Angular and NodeJS app that uses MongoDB, it lets you store and search for your code through tags.
 
 [Link](url) and ![Image](src)
 ```
