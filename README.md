@@ -2,7 +2,7 @@
 
 I am a full stack developer working with web frameworks like Angular, React and backend technologies like NodeJS, MongoDB and PostgreSQL.
 
-You can view my full portfolio [here](https://github.com/mthanki), or check a summary of some projects below.
+You can view my full portfolio [here](https://github.com/mthanki), or check a summary below.
 
 <!-- You can use the [editor on GitHub](https://github.com/mthanki/mehulthanki/edit/main/README.md) to maintain and preview the content for your website in Markdown files. -->
 
@@ -14,7 +14,15 @@ You can view my full portfolio [here](https://github.com/mthanki), or check a su
 ```markdown
 An Angular and NodeJS app that uses MongoDB, it lets you store and search for your code through tags.
 ```
-![](https://imgur.com/YrGwcJh.png)
+![Add](https://imgur.com/YrGwcJh.png)
+
+![View](https://imgur.com/jRpToOt.png)
+
+![Login](https://imgur.com/UWLAUZ0.png)
+
+![Signup](https://imgur.com/O9CZeLK.png)
+
+
 
 <!-- For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
