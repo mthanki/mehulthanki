@@ -13,8 +13,6 @@ You can view my full portfolio [here](https://github.com/mthanki), or check a su
 
 ```markdown
 An Angular and NodeJS app that uses MongoDB, it lets you store and search for your code through tags.
-
-[Link](url) and ![Image](src)
 ```
 ![](https://imgur.com/YrGwcJh.png)
 
